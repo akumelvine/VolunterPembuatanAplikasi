@@ -8,5 +8,5 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 
-* Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Hadi Rahmah Esa Putra [oo.or.id](https://oo.or.id).
 
