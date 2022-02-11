@@ -9,4 +9,5 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Hadi Rahmah Esa Putra [oo.or.id](https://oo.or.id).
+* * Hadi Rahmah Esa Putra, [Linkedin](https://www.linkedin.com/in/hadi-r-0a0811140/).
 
